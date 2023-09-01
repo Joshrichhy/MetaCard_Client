@@ -1,0 +1,29 @@
+.TopNav{
+    height: 6rem;
+    width: auto;
+    color: #ffff;
+    background: #2a6fef;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+
+}
+.companyName{
+    color: #61dafb;
+    font-size: 24px;
+    font-weight: bold;
+    padding-left: 20px;
+}
+.TopNav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 30px;
+    padding-right: 40px;
+    cursor: pointer;
+}
+
+.TopNav a:hover {
+    color: #61dafb ;
+    text-decoration: none;
+    cursor: pointer;
+}
